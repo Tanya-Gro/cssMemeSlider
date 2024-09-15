@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {}
+
+.slider_wrapper {
+    position: relative;
+    margin: 0 auto;
+}
+
+.slider {
+    display: flex;
+    justify-content: space-between;
+}
+
+.slide img {
+    /* width: calc(100vw -300px); */
+    width: 800px;
+}
